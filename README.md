@@ -25,7 +25,7 @@ To answer common sales questions quickly: how much did we earn, where, through w
 ## Project File
 The workbook has the dashboard plan, the sales data, the supporting pivots, and the final dashboard.
 
-File: [Download the Sales Dashboard](./Sales_Dashboard.xlsx)
+File: [Download the Sales Dashboard](https://1drv.ms/x/c/CAFD6973D9B6D165/IQAiQpREezm1TIdvXs9adko3AWz2PH5GvIluQgD3jpDCpuQ?e=pMPU6m)
 
 ## Project Details
 - **Project Type:** Self-initiated portfolio project
